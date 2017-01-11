@@ -75,8 +75,7 @@ function OnLoad()
   KatarinaUpdate(
     Version,
     'raw.githubusercontent.com', 
-    '/remembermyhentai/BoL/master/Teeto/HentaiTeeto.version',
-    '/remembermyhentai/BoL/master/Teeto/HentaiTeeto.lua', 
+    '/GGScripts/GGScripts/BushMasterTeemo/BushMasterTeemo.lua', 
     SCRIPT_PATH.._ENV.FILE_NAME, 
     function() PrintChat('<font color = \"#B13070\">[BushMasterTeemo]</font> <font color = \"#4DFF4D\">SCRIPT UPDATED. RESTART BOL (2xF9)</font>') end, 
     function() PrintChat('<font color = \"#B13070\">[BushMasterTeemo]</font> <font color = \"#4DFF4D\">LOADED VERSION //</font>'..version) end, 
